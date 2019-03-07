@@ -17,7 +17,5 @@ class App < Sinatra::Base
       @number.times do
         @phares
       end
-    end
-    do
   end
 end
